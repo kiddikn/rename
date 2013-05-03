@@ -1,0 +1,5 @@
+これはあるディレクトリ内にあるファイルの形式を一気に変更するためのものである。
+例えば、*pngファイルを*epsファイルに一括変換するようなものである。
+変更には"convert"コマンドを利用している。
+無いときは%sudo port install ImageMagickでImageMagickを入れたら付属で付いている。
+入力形式はjpeg, giff, pict, tiff, pdf, text
